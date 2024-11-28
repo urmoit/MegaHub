@@ -17,14 +17,16 @@ And More Soon
 
 🔴 = Offline
 
+🔵 = Out This Weekend
+
 🟠 = Coming Soon
 
 ### Supported Games:
-🟠 = Arsenal
+🟡 = Arsenal
+
+🔵 = Pet Go
 
 🟠 = Lumber Tycoon 2
-
-🟠 = Pet Go
 
 🟠 = Pet Simulator x
 
